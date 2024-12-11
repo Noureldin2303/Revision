@@ -1,10 +1,10 @@
 # Revision
 
-This repository is created to revise various data structures such as Array, Stack, Queue, Linked List, Trees, and Strings.
+This repository is created to revise various data structures such as Array, Stack, Queue, Linked List, Trees, Strings, and Object-Oriented Programming (OOP) principles.
 
 ## Project Overview
 
-The purpose of this project is to provide implementations and revisions for fundamental data structures. Each data structure is implemented in a separate directory with relevant code examples and explanations.
+The purpose of this project is to provide implementations and revisions for fundamental data structures and OOP principles. Each data structure and OOP principle is implemented in a separate directory with relevant code examples and explanations.
 
 ## Data Structures Covered
 
@@ -14,6 +14,13 @@ The purpose of this project is to provide implementations and revisions for fund
 - Linked List
 - Trees
 - Strings
+
+## OOP Principles Covered
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Abstraction
+- Association
 
 ## Installation
 
@@ -30,7 +37,7 @@ To install the necessary dependencies for this project, follow the instructions 
 
 ## Usage
 
-Each data structure implementation can be found in its respective directory. You can navigate to the directory and run the code examples provided.
+Each data structure and OOP principle implementation can be found in its respective directory. You can navigate to the directory and run the code examples provided.
 
 ## Contribution
 
